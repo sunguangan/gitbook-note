@@ -1,5 +1,7 @@
-一windows下的安装 参考下面的博客
+一 windows下的安装 
+ 参考下面的博客
  http://www.cszhi.com/20120513/nginx_nginx-conf.html
+ 
 二 相关命令
 验证配置是否正确: nginx -t
 
