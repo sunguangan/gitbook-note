@@ -14,3 +14,8 @@
 正常停止或关闭Nginx：nginx -s quit
 
 配置文件修改重装载命令：nginx -s reload
+
+三 配置文件夹的访问
+  https://www.cnblogs.com/freeweb/p/6517802.html
+  
+  
